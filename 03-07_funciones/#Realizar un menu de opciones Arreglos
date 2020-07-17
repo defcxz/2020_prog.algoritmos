@@ -1,0 +1,9 @@
+#Realizar un menu de opciones
+#1.- Llenar arreglo con numeros enteros
+#2.- mostrar arreglo
+#3.- Mostrar todos los elementos pares del arreglo llenado
+#4.- Mostrar todos los elementos en posicion impar del arreglo
+#5.- Dejar en un segundo arreglo todos los elementos que sean divisibles por 5, 
+#mostrar ese arreglo
+#6.- Salir del menu
+#ojo, las opciones 2,3,4 y 5 se haran solo si ya se lleno el arreglo

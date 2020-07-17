@@ -1,0 +1,1 @@
+ed1 = int(input("Ingrese la edad de la primera persona.\n"))

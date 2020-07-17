@@ -1,0 +1,51 @@
+--------------------
+Date: 5:7:2020
+Time: 5:35
+Phone number: +56941103822
+Message: Probando
+--------------------
+Date: 5:7:2020
+Time: 5:40
+Phone number: +56936538615
+Message: Hola Bayron! si ves este mensaje, es porque el bot en Python está funcionando correctamente! espero no haberte despertado jaja
+--------------------
+Date: 5:7:2020
+Time: 6:45
+Phone number: +56941103822
+Message: probando selenium
+--------------------
+Date: 5:7:2020
+Time: 7:37
+Phone number: +56941103822
+Message: prueba
+--------------------
+Date: 5:7:2020
+Time: 7:38
+Phone number: +56941103822
+Message: prueba
+--------------------
+Date: 5:7:2020
+Time: 7:40
+Phone number: +56941103822
+Message: prueba
+--------------------
+Date: 5:7:2020
+Time: 7:42
+Phone number: +56941103822
+Message: prueba
+--------------------
+Date: 5:7:2020
+Time: 4:0
+Phone number: +56941103822
+Message: prueba
+--------------------
+Date: 5:7:2020
+Time: 7:45
+Phone number: +56941103822
+Message: prueba
+--------------------
+Date: 5:7:2020
+Time: 7:45
+Phone number: +56941103822
+Message: prueba
+--------------------
